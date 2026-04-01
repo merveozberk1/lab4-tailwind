@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "MentorMind AI",
+    "description": "Etüt merkezleri için AI destekli ders planlama ve öğrenci takibi sistemi. SDLC süreçleri pratiğe döküldü.",
+    "tech": ["Sistem Analizi", "SDLC", "Yapay Zeka"],
+    "year": 2026,
+    "category": "fullstack",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Film & Dizi Arşiv Web Uygulaması",
+    "description": "Kullanıcıların ruh haline göre öneri sunan React tabanlı web projesi.",
+    "tech": ["React", "CSS", "JavaScript"],
+    "year": 2025,
+    "category": "frontend",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "EVSE Security Lab",
+    "description": "Elektrikli araç şarj istasyonlarının (EVSE) siber güvenliği üzerine laboratuvar çalışması.",
+    "tech": ["Siber Güvenlik", "Ağ Analizi"],
+    "year": 2026,
+    "category": "backend",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Hangman Oyunu (C#)",
+    "description": "Türkiye'nin 81 ilinden rastgele seçim yapan, 10 haklı şehir tahmin oyunu.",
+    "tech": ["C#", ".NET"],
+    "year": 2025,
+    "category": "backend",
+    "featured": false
+  }
+]
